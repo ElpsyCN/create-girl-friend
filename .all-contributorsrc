@@ -30,6 +30,16 @@
         "blog",
         "code"
       ]
+    },
+    {
+      "login": "Jigsaw111",
+      "name": "陈末",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/50312681?v=4",
+      "profile": "http://blog.maddestroyer.xyz/",
+      "contributions": [
+        "blog",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7

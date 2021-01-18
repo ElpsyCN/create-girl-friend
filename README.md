@@ -1,7 +1,7 @@
 # Create Girl Friend
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 > 用你喜爱的语言创建属于你的对象（女朋友）。
@@ -26,6 +26,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://www.yunyoujun.cn/"><img src="https://avatars3.githubusercontent.com/u/25154432?v=4?s=100" width="100px;" alt=""/><br /><sub><b>云游君</b></sub></a><br /><a href="#blog-YunYouJun" title="Blogposts">📝</a> <a href="https://github.com/ElpsyCN/create-girl-friend/commits?author=YunYouJun" title="Code">💻</a> <a href="#design-YunYouJun" title="Design">🎨</a></td>
     <td align="center"><a href="https://www.addesp.com/"><img src="https://avatars2.githubusercontent.com/u/44437200?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ADD-SP</b></sub></a><br /><a href="#blog-ADD-SP" title="Blogposts">📝</a> <a href="https://github.com/ElpsyCN/create-girl-friend/commits?author=ADD-SP" title="Code">💻</a></td>
+    <td align="center"><a href="http://blog.maddestroyer.xyz/"><img src="https://avatars2.githubusercontent.com/u/50312681?v=4?s=100" width="100px;" alt=""/><br /><sub><b>陈末</b></sub></a><br /><a href="#blog-Jigsaw111" title="Blogposts">📝</a> <a href="https://github.com/ElpsyCN/create-girl-friend/commits?author=Jigsaw111" title="Code">💻</a></td>
   </tr>
 </table>
 
