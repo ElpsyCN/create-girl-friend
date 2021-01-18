@@ -3,9 +3,9 @@
 
 int main()
 {
-    Person me("ÎÒ");
+    Person me("æˆ‘");
 
-    Girl girl("Å®ÅóÓÑ");
+    Girl girl("å¥³æœ‹å‹");
 
     girl.kiss(me);
     girl.fallInLoveWith(me);

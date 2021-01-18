@@ -4,10 +4,10 @@
 
 void Girl::kiss(Person someone)
 {
-   std::cout<<"¡¸"<<this->getName()<<"¡¹ Ç×ÁËÏÂ ¡¸"<<someone.getName()<<"¡¹¡£"<<std::endl;
+   std::cout<<"ã€Œ"<<this->getName()<<"ã€ äº²äº†ä¸‹ ã€Œ"<<someone.getName()<<"ã€ã€‚"<<std::endl;
 }
 
 void Girl::fallInLoveWith(Person someone)
 {
-   std::cout<<"¡¸"<<this->getName()<<"¡¹ Óë ¡¸"<<someone.getName()<<"¡¹ ×¹Èë°®ºÓ¡£"<<std::endl;;
+   std::cout<<"ã€Œ"<<this->getName()<<"ã€ ä¸Ž ã€Œ"<<someone.getName()<<"ã€ å å…¥çˆ±æ²³ã€‚"<<std::endl;;
 }
