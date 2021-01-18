@@ -9,6 +9,12 @@
   ],
   "license": "MIT",
   "scripts": {
-    "start": ""
+    "start": "",
+    "contributors:add": "all-contributors add",
+    "contributors:check": "all-contributors check",
+    "contributors:generate": "all-contributors generate"
+  },
+  "devDependencies": {
+    "all-contributors-cli": "^6.19.0"
   }
 }
