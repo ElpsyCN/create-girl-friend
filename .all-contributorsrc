@@ -1,0 +1,26 @@
+{
+  "projectName": "create-girl-friend",
+  "projectOwner": "ElpsyCN",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "gitmoji",
+  "contributors": [
+    {
+      "login": "YunYouJun",
+      "name": "云游君",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/25154432?v=4",
+      "profile": "https://www.yunyoujun.cn/",
+      "contributions": [
+        "blog",
+        "code",
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
