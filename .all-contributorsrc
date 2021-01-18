@@ -50,6 +50,15 @@
         "blog",
         "code"
       ]
+    },
+    {
+      "login": "MleMoe",
+      "name": "MleMoe",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/50612468?v=4",
+      "profile": "https://github.com/MleMoe",
+      "contributions": [
+        "blog"
+      ]
     }
   ],
   "contributorsPerLine": 7
