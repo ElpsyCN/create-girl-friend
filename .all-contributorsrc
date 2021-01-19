@@ -58,6 +58,16 @@
         "blog",
         "code"
       ]
+    },
+    {
+      "login": "Shimogawa",
+      "name": "Rebuild",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/23229568?v=4",
+      "profile": "https://github.com/Shimogawa",
+      "contributions": [
+        "blog",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
