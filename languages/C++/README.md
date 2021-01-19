@@ -2,6 +2,8 @@
 
 You need [Cmake](https://www.cmake.org/) and [MinGW](http://www.mingw-w64.org/).
 
+## Build
+
 ```sh
 cd languages/c++
 mkdir build
