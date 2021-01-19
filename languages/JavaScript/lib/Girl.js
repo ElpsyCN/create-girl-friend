@@ -8,5 +8,5 @@ class Girl {
     console.log(this.name + "的男朋友是" + this.boyFriend + "她讨厌" + this.hateName);
   }
 };
-const girlFriend = new Parent('纸片人', "纯爱战士", "牛头人");
+const girlFriend = new Girl('纸片人', "纯爱战士", "牛头人");
 girlFriend.say()
