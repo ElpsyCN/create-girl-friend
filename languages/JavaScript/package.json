@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "name": "create-girl-friend",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/ElpsyCN/create-girl-friend",
+  "author": "YunYouJun <me@yunyoujun.cn>",
+  "maintainers": [
+    "@YunYouJun"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "start": "",
+    "contributors:add": "all-contributors add",
+    "contributors:check": "all-contributors check",
+    "contributors:generate": "all-contributors generate"
+  },
+  "devDependencies": {
+    "all-contributors-cli": "^6.19.0"
+  }
+}
