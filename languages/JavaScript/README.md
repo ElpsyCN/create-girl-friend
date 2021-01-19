@@ -2,6 +2,9 @@
 
 You need [Node.js](https://nodejs.org/).
 
-```sh
-node index.js
-```
+## Output
+> cd Me.js
+> node Me.js
+
+## Postscript
+> Of course you can also choose to be NTR
