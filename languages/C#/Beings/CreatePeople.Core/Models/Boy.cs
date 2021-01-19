@@ -10,5 +10,9 @@ namespace CreatePeople.Core.Models
         {
             Gender = Gender.Male;
         }
+        public Boy(string name): this()
+        {
+            Name = name;
+        }
     }
 }
