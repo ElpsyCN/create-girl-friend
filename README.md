@@ -1,7 +1,7 @@
 # Create Girl Friend
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 > 用你喜爱的语言创建属于你的对象（女朋友）。
@@ -9,7 +9,7 @@
 ## Contribute Guide
 
 - 将你的代码放置在对应 `languages` 中的语言目录下
-- 对你的代码的功能与使用方式进行描述（必要时在代码中添加注释）
+- 在 README 中对你的代码的功能与使用方式进行描述（必要时在代码中添加注释）
 - 你可以合理地重构前人代码（不必束手束脚）
 - commit 信息请遵循 [gitmoji 规范](https://gitmoji.carloscuesta.me/)
 - 善用 `.gitignore` 忽略你的语言中不应提交至本仓库的构建产物
@@ -26,7 +26,8 @@
     <td align="center"><a href="https://github.com/ADD-SP"><img src="https://avatars2.githubusercontent.com/u/44437200?v=4" width="80px;" alt=""/><br /><sub><b>ADD-SP</b></sub><br/> <a href="https://www.addesp.com/" title="Blog">📝</a> <a href="https://github.com/ElpsyCN/create-girl-friend/commits?author=ADD-SP" title="Code">💻</a> </a></td>
     <td align="center"><a href="https://github.com/Jigsaw111"><img src="https://avatars2.githubusercontent.com/u/50312681?v=4" width="80px;" alt=""/><br /><sub><b>陈末</b></sub><br/> <a href="http://blog.maddestroyer.xyz/" title="Blog">📝</a> <a href="https://github.com/ElpsyCN/create-girl-friend/commits?author=Jigsaw111" title="Code">💻</a> </a></td>
     <td align="center"><a href="https://github.com/sanshiliuxiao"><img src="https://avatars2.githubusercontent.com/u/25658690?v=4" width="80px;" alt=""/><br /><sub><b>椎</b></sub><br/> <a href="https://sanshiliuxiao.top/" title="Blog">📝</a> <a href="https://github.com/ElpsyCN/create-girl-friend/commits?author=sanshiliuxiao" title="Code">💻</a> </a></td>
-    <td align="center"><a href="https://github.com/Shimogawa"><img src="https://avatars1.githubusercontent.com/u/23229568?v=4" width="80px;" alt=""/><br /><sub><b>Rebuild</b></sub><br/> <a href="http://www.rebuild.moe/" title="Blog">📝</a> <a href="https://github.com/ElpsyCN/create-girl-friend/commits?author=Shimogawa" title="Code">💻</a> </a></td>
+    <td align="center"><a href="https://github.com/Shimogawa"><img src="https://avatars1.githubusercontent.com/u/23229568?v=4" width="80px;" alt=""/><br /><sub><b>Rebuild</b></sub><br/> <a href="https://www.rebuild.moe/" title="Blog">📝</a> <a href="https://github.com/ElpsyCN/create-girl-friend/commits?author=Shimogawa" title="Code">💻</a> </a></td>
+    <td align="center"><a href="https://github.com/qingzinai"><img src="https://avatars0.githubusercontent.com/u/34832141?v=4" width="80px;" alt=""/><br /><sub><b>zinai</b></sub><br/> <a href="https://github.com/qingzinai" title="Blog">📝</a> <a href="https://github.com/ElpsyCN/create-girl-friend/commits?author=qingzinai" title="Code">💻</a> </a></td>
   </tr>
 </table>
 

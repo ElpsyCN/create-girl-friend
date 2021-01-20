@@ -63,7 +63,17 @@
       "login": "Shimogawa",
       "name": "Rebuild",
       "avatar_url": "https://avatars1.githubusercontent.com/u/23229568?v=4",
-      "profile": "http://www.rebuild.moe/",
+      "profile": "https://www.rebuild.moe/",
+      "contributions": [
+        "blog",
+        "code"
+      ]
+    },
+    {
+      "login": "qingzinai",
+      "name": "zinai",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/34832141?v=4",
+      "profile": "https://github.com/qingzinai",
       "contributions": [
         "blog",
         "code"
