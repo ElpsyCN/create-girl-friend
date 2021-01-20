@@ -1,5 +1,6 @@
 # Need  
 Python3.8 +  
+python3.8 + already have the json and requests ,so no need to pip  
 # How to use  
 ## using bash or cmd/powershell
 ### bash:  
