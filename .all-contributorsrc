@@ -78,6 +78,16 @@
         "blog",
         "code"
       ]
+    },
+    {
+      "login": "Little-YangNian",
+      "name": "Chase杨念",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/65386393?v=4",
+      "profile": "https://github.com/Little-YangNian",
+      "contributions": [
+        "blog",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7

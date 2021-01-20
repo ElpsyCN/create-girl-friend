@@ -1,7 +1,7 @@
 # Create Girl Friend
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 > 用你喜爱的语言创建属于你的对象（女朋友）。
@@ -28,6 +28,7 @@
     <td align="center"><a href="https://github.com/sanshiliuxiao"><img src="https://avatars2.githubusercontent.com/u/25658690?v=4" width="80px;" alt=""/><br /><sub><b>椎</b></sub><br/> <a href="https://sanshiliuxiao.top/" title="Blog">📝</a> <a href="https://github.com/ElpsyCN/create-girl-friend/commits?author=sanshiliuxiao" title="Code">💻</a> </a></td>
     <td align="center"><a href="https://github.com/Shimogawa"><img src="https://avatars1.githubusercontent.com/u/23229568?v=4" width="80px;" alt=""/><br /><sub><b>Rebuild</b></sub><br/> <a href="https://www.rebuild.moe/" title="Blog">📝</a> <a href="https://github.com/ElpsyCN/create-girl-friend/commits?author=Shimogawa" title="Code">💻</a> </a></td>
     <td align="center"><a href="https://github.com/qingzinai"><img src="https://avatars0.githubusercontent.com/u/34832141?v=4" width="80px;" alt=""/><br /><sub><b>zinai</b></sub><br/> <a href="https://github.com/qingzinai" title="Blog">📝</a> <a href="https://github.com/ElpsyCN/create-girl-friend/commits?author=qingzinai" title="Code">💻</a> </a></td>
+    <td align="center"><a href="https://github.com/Little-YangNian"><img src="https://avatars3.githubusercontent.com/u/65386393?v=4" width="80px;" alt=""/><br /><sub><b>Chase杨念</b></sub><br/> <a href="https://github.com/Little-YangNian" title="Blog">📝</a> <a href="https://github.com/ElpsyCN/create-girl-friend/commits?author=Little-YangNian" title="Code">💻</a> </a></td>
   </tr>
 </table>
 
