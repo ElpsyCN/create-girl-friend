@@ -1,9 +1,5 @@
 # Create Girl Friend
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
 > 用你喜爱的语言创建属于你的对象（女朋友）。
 
 ## Contribute Guide
@@ -14,6 +10,8 @@
 - commit 信息请遵循 [gitmoji 规范](https://gitmoji.carloscuesta.me/)
 - 善用 `.gitignore` 忽略你的语言中不应提交至本仓库的构建产物
 - 尽可能地让你的女朋友生动复杂有趣但又不失去控制吧
+
+If your new version PR is merged, you will be invited to [Otaku Team](https://github.com/orgs/ElpsyCN/teams/otaku).
 
 ## Contributors ✨
 
