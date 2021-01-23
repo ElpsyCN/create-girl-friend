@@ -2,6 +2,7 @@ import requests
 import json
 import likability
 haogan = likability.haogan()
+
 class girl():
     def __init__(self,name,boyname,hatename):
         self.name = name
@@ -11,17 +12,21 @@ class girl():
         print(f'我 {self.name} 的男朋友是 {self.boyname} ,我讨厌 {self.hatename}')
         # 只要正确操作就会增加好感度
         haogan.add(1)
+
     def say_nb(self):
         respoen = requests.get('https://el-bot-api.vercel.app/api/words/niubi')
         # 熟悉的api
         get_list = json.loads(respoen.text)
         rest = str(get_list[0])
         print(rest.replace('${name}',self.boyname))
+
         haogan.add(1)
+
     def say_wanan(self):
         respoen = requests.get('https://el-bot-api.vercel.app/api/words/wanan')
         # en......
         rest = json.loads(respoen.text)
+
         print(rest[0])
         haogan.add(1)
     def haogandu(self):
@@ -56,3 +61,5 @@ class girl_launcher():
                 print('数字指令嗷')
                 girl.remove_hgd()
         
+        print(rest[0])
+
