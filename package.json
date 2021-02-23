@@ -15,6 +15,6 @@
     "contributors:generate": "all-contributors generate"
   },
   "devDependencies": {
-    "all-contributors-cli": "^6.19.0"
+    "all-contributors-cli": "^6.20.0"
   }
 }
