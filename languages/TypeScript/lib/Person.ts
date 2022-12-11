@@ -28,7 +28,7 @@ export default class Person {
    * 说话
    * @param word
    */
-  say(word: string) {
+  say(word: string): void {
     console.log(word);
   }
 
