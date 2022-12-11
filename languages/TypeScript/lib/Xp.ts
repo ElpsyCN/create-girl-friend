@@ -8,14 +8,14 @@ export class Xp {
    * 是否匹配
    * @param tags
    */
-  match(tags: string[]) {
+  match(tags: string[]): string[] {
     const keywords = this.keywords.map((keyword) => keyword.toLowerCase());
     return tags.some((tag) => {
       return keywords.includes(tag.toLowerCase());
     });
   }
 
-  print() {
+  print(): void {
     console.log("干，老兄，你的 xp 好 jb 怪！");
   }
 }
