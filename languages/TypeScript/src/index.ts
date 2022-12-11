@@ -6,7 +6,12 @@ import inquirer from "inquirer";
 const program = createCommand();
 program.version(pkg.version);
 
-const questions = [
+interface input {
+  type: string;
+  name: string;
+  message: string;
+}
+const questions: input[] = [
   {
     type: "input",
     name: "name",
