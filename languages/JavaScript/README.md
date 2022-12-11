@@ -2,9 +2,10 @@
 
 You need [Node.js](https://nodejs.org/).
 
-## Output
-> cd Me.js
-> node Me.js
+```bash
+cd {this_dir}
+node index
+```
 
 ## Postscript
 > Of course you can also choose to be NTR
