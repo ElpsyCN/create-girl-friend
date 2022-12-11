@@ -2,9 +2,20 @@
 
 You need [Node.js](https://nodejs.org/).
 
-## Output
-> cd Me.js
-> node Me.js
+```sh
+cd languages/JavaScript
+pnpm i # npm i
+pnpm build # npm run build
+```
 
-## Postscript
-> Of course you can also choose to be NTR
+## Main
+
+```sh
+node dist/start
+```
+
+## Demo
+
+```sh
+node dist/demo
+```

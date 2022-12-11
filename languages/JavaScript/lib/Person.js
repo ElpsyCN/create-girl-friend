@@ -1,4 +1,3 @@
-import Girl from "./Girl";
 import { Xp } from "./Xp";
 
 /**
@@ -8,16 +7,16 @@ export default class Person {
   /**
    * 姓名
    */
-  name: string = "";
+  name = "";
   /**
    * 年龄
    */
-  age: number = 0;
+  age = 0;
 
   /**
    * 标签
    */
-  tags: string[] = [];
+  tags = [];
 
   /**
    * XP 系统
@@ -28,11 +27,11 @@ export default class Person {
    * 说话
    * @param word
    */
-  say(word: string): void {
+  say(word) {
     console.log(word);
   }
 
-  like(girl: Girl) {
+  like(girl) {
     return this.xp.match(girl.tags);
   }
 }

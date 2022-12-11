@@ -1,21 +1,21 @@
 {
-  "type": "module",
   "name": "create-girl-friend",
   "version": "0.0.1",
-  "main": "index.js",
-  "repository": "https://github.com/ElpsyCN/create-girl-friend",
-  "author": "YunYouJun <me@yunyoujun.cn>",
-  "maintainers": [
-    "@YunYouJun"
-  ],
-  "license": "MIT",
-  "scripts": {
-    "start": "",
-    "contributors:add": "all-contributors add",
-    "contributors:check": "all-contributors check",
-    "contributors:generate": "all-contributors generate"
+  "description": "创建你的女朋友（对象）",
+  "author": {
+    "email": "me@yunyoujun.cn",
+    "name": "YunYouJun",
+    "url": "https://www.yunyoujun.cn"
   },
-  "devDependencies": {
-    "all-contributors-cli": "^6.19.0"
+  "scripts": {
+    "start": "node dist/start.js",
+    "demo": "node dist/demo.js",
+    "build": "npx esbuild cli/index.js --minify --bundle --outfile=dist/start.js --platform=node && npx esbuild demo/index.js --minify --bundle --outfile=dist/demo.js --platform=node"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^7.1.0",
+    "esbuild": "^0.16.4",
+    "inquirer": "^7.3.3"
   }
 }
