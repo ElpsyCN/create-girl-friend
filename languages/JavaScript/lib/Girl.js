@@ -1,13 +1,21 @@
-export default class Girl {
+import Person from "./Person";
 
-  constructor(name, boyFriend, hateName) {
-    this.name = name;
-    this.boyFirend = boyFriend;
-    this.hateName = hateName
+/**
+ * 女孩子
+ */
+export default class Girl extends Person {
+  /**
+   * Kiss
+   */
+  kiss(someone) {
+    console.log(`「${this.name}」 亲了下 「${someone.name}」。`);
   }
 
-  say() {
-    console.log(this.name + "的男朋友是" + this.boyFriend + "她讨厌" + this.hateName);
+  /**
+   * 与某人坠入爱河
+   * @param someone 某人
+   */
+  fallInLoveWith(someone) {
+    console.log(`「${this.name}」 与 「${someone.name}」 坠入爱河。`);
   }
-
-};
+}

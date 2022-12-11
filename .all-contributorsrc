@@ -88,6 +88,16 @@
         "blog",
         "code"
       ]
+    },
+    {
+      "login": "Neila",
+      "name": "Neila",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78797625?v=4",
+      "profile": "https://neila.ga/about",
+      "contributions": [
+        "blog",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 8

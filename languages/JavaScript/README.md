@@ -2,10 +2,20 @@
 
 You need [Node.js](https://nodejs.org/).
 
-```bash
-cd {this_dir}
-node index
+```sh
+cd languages/JavaScript
+pnpm i # npm i
+pnpm build # npm run build
 ```
 
-## Postscript
-> Of course you can also choose to be NTR
+## Main
+
+```sh
+node dist/start
+```
+
+## Demo
+
+```sh
+node dist/demo
+```
